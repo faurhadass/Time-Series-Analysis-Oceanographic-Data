@@ -1,0 +1,10 @@
+# Data folder — not for public repo
+Data/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# MATLAB junk
+*.asv
+*.m~
